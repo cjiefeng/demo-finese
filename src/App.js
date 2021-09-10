@@ -1,4 +1,3 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
 import ReactECharts from 'echarts-for-react';
 import React from 'react';
 import Accordion from 'react-bootstrap/Accordion';
